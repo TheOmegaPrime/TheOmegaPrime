@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheOmegaPrime
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Learning
 - 🌱 I’m currently learning ...
 
 <!---
